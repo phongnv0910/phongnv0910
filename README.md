@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 
 ## 📫 How to reach me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)
+- Email: [phongnv0910@gmail.com](mailto:phongnv0910@gmail.com)
+- LinkedIn: [linkedin.com/in/phongnv0910/](linkedin.com/in/phongnv0910/)
+
 
 ## ⚡ Fun fact
 
